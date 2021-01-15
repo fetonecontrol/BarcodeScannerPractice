@@ -1,4 +1,7 @@
 package com.example.barcodescannerpractice11620;
 
-public class CaptureAct {
+import com.journeyapps.barcodescanner.CaptureActivity;
+
+public class CaptureAct extends CaptureActivity {
+
 }

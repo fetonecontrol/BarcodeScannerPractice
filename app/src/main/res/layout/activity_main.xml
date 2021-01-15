@@ -8,9 +8,10 @@
 
     <Button
         android:id="@+id/scanButton"
-        android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
         android:text="@string/scan_now"
-        android:textSize="30sp"/>
+        android:textSize="30sp"
+        app:cornerRadius="15dp" />
 </RelativeLayout>
